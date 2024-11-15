@@ -157,9 +157,9 @@
 		2AE101252CE61F7C00AF5F95 /* Core */ = {
 			isa = PBXGroup;
 			children = (
+				2AE1011F2CE61ECF00AF5F95 /* TabBarViewController.swift */,
 				2AE101232CE61F0F00AF5F95 /* LibraryViewController.swift */,
 				2AE101212CE61EE200AF5F95 /* SearchViewController.swift */,
-				2AE1011F2CE61ECF00AF5F95 /* TabBarViewController.swift */,
 				2AE101072CE5163500AF5F95 /* HomeViewController.swift */,
 			);
 			name = Core;

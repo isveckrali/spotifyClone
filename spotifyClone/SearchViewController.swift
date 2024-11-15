@@ -13,6 +13,8 @@ class SearchViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        title = "Sarch"
+        view.backgroundColor = .systemBackground
     }
     
 
